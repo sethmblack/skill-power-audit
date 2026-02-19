@@ -3,7 +3,7 @@ name: power-audit
 description: Systematically map power structures and identify leverage points before taking action—revealing who holds formal and informal power, their interests and vulnerabilities, and whether you can win.
 license: MIT
 metadata:
-  version: 1.0.4717
+  version: 1.0.4718
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
